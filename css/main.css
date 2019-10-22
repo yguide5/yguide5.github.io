@@ -166,6 +166,13 @@ img {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  .avatar-container {
+    display: none;
+  }
+}
+
+
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
