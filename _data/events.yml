@@ -10,7 +10,7 @@
 
 - name: Bell Ringing
   date: 2019-12-07
-  time: TBD
+  time: 12:00pm - 3:00pm
   location: Bob and Kurt's Sentry
 
 - name: Boy's Winter Camp
@@ -29,9 +29,14 @@
   location: Waukesha YMCA
 
 - name: Y-Night
-  date: 2020-02-28
+  date: 2020-02-21
   time: 5:00pm - 8:00pm  
   location: Waukesha YMCA
+  
+- name: Bowling Bash
+  date: 2020-03-08
+  time: 1:00pm - 3:00pm
+  location: Sunset Bowl
 
 - name: Mother/Son Dance
   date: 2020-03-14
@@ -42,4 +47,26 @@
   date: 2020-04-18
   time: TBD
   location: Waukesha YMCA
+
+- name: Boy's Spring Camp
+  date: 2020-05-15
+  time: All Day
+  location: Phantom Lake
+- name: Girl's Spring Camp
+  date: 2020-05-28
+  time: All Day
+  location: Phantom Lake
+  
+ - name: Girl's Fall Camp
+   date: 2020-10-09
+   time: All Day
+   location: Camp Edwards
+  
+- name: Boy's Spring Camp
+   date: 2020-10-16
+   time: TBD
+   location: Camp Edwards
+
+
+
 
