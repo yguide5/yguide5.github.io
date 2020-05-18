@@ -12,13 +12,54 @@
   date: 2020-05-28
   time: All Day
   location: Phantom Lake
+
+- name: Boy's Spring Camp
+  date: 2020-06-28
+  time: All Day
+  location: Phantom Lake
   
 - name: Girl's Fall Camp
   date: 2020-10-09
   time: All Day
   location: Camp Edwards
   
-- name: Boy's Spring Camp
+- name: Boy's Fall Camp
   date: 2020-10-16
   time: TBD
   location: Camp Edwards
+
+- name: Pumpkin Hunt
+  date: 2020-10-24
+  time: TBD
+  location: TBD
+
+- name: Christmas Parade
+  date: 2020-11-22
+  time: TBD
+  location: Waukesha
+
+- name: Girl's Winter Camp
+  date: 2021-01-16
+  time: All Day
+  location: Lutherdale
+
+- name: Boy's Winter Camp
+  date: 2021-01-30
+  time: All Day
+  location: Lutherdale
+
+- name: Father Daughter Dance
+  date: 2021-02-06
+  time: TBD
+  location: Waukesha YMCA
+
+- name: Bowling Bash
+  date: 2021-03-07
+  time: 13:00
+  location: Sunset Bowl
+
+- name: Mother Son Dance
+  date: 2021-03-13
+  time: TBD
+  location: Waukesha YMCA
+
