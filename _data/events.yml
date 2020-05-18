@@ -3,55 +3,10 @@
 #  time: TBD
 #  location: Waukesha YMCA
 
-- name: Waukesha Christmas Parade
-  date: 2019-11-24
-  time: 4:00pm - 8:00pm
-  location: Downtown Waukesha
-
-- name: Bell Ringing
-  date: 2019-12-07
-  time: 12:00pm - 3:00pm
-  location: Bob and Kurt's Sentry
-
-- name: Boy's Winter Camp
-  date: 2020-01-11
-  time: All Day
-  location: Lutherdale
-
-- name: Girls's Winter Camp
-  date: 2020-01-25 
-  time: All Day
-  location: Lutherdale
-
-- name: Father Daughter Dance
-  date: 2020-02-08
-  time: 8:00pm
-  location: Waukesha YMCA
-
-- name: Y-Night
-  date: 2020-02-21
-  time: 5:00pm - 8:00pm  
-  location: Waukesha YMCA
-  
-- name: Bowling Bash
-  date: 2020-03-08
-  time: 1:00pm - 3:00pm
-  location: Sunset Bowl
-
-- name: Mother/Son Dance
-  date: 2020-03-14
-  time: 5:00pm - 8:00pm
-  location: Waukesha YMCA
-
 - name: Pinewood Derby
   date: 2020-04-18
   time: TBD
   location: Waukesha YMCA
-
-- name: Boy's Spring Camp
-  date: 2020-05-15
-  time: All Day
-  location: Phantom Lake
 
 - name: Girl's Spring Camp
   date: 2020-05-28
